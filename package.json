@@ -1,0 +1,12 @@
+{
+  "name": "good-with-submodules",
+  "fullName": "Hello World!",
+  "version": "0.0.1",
+  "description": "Submodule test",
+  "joshfire": {
+    "images": {
+      "small": "http://i.imgur.com/sm0MA.png",
+      "big": "http://i.imgur.com/x5NbC.png"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+[submodule "deps/good-repo"]
+	path = deps/good-repo
+	url = git@github.com:joshfire-platform-templates-test/good-repo.git
